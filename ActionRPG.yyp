@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "17949b1d-c4de-4a5c-80e6-be487c507409",
+            "Value": {
+                "id": "b7a7e179-fc6e-4860-9fee-0fef8992eae3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_grass\/s_grass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21cfcf33-27ef-45db-b2e7-5aefad84a712",
             "Value": {
                 "id": "89cd70f7-8c00-4f0f-97ac-bc1a2201ebb1",
@@ -872,6 +891,25 @@
                 ],
                 "resourcePath": "sprites\/s_player_run_down\/s_player_run_down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec885cbf-a1c7-4b19-b606-f23abb5bac26",
+            "Value": {
+                "id": "7a4f0928-ee85-4c7e-b8f1-cc8ac9a20faa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_grass\/o_grass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
