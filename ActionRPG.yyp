@@ -495,6 +495,25 @@
             }
         },
         {
+            "Key": "9cc76ebb-0ddc-4409-8596-259884116529",
+            "Value": {
+                "id": "75ca66c0-f8a8-4827-af37-dc6dd6e2f9a3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/animation_hit_frame\/animation_hit_frame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a025063d-aa9d-4fbc-a786-b342efcb4e59",
             "Value": {
                 "id": "9cb0a037-2390-4c01-84ab-ae475b464f6e",
@@ -882,7 +901,8 @@
         "d6f76085-404a-4ef5-b275-42d899a0c19d",
         "63a90adc-c5d8-494b-8ddc-3c2b851eae04",
         "2b9b61a5-b80d-4e7e-9a69-8a8a6e9b9c10",
-        "3b2b668d-1c5c-4783-a28c-73a2b691e2c6"
+        "3b2b668d-1c5c-4783-a28c-73a2b691e2c6",
+        "9cc76ebb-0ddc-4409-8596-259884116529"
     ],
     "tutorial": ""
 }
