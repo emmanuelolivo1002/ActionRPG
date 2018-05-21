@@ -3,6 +3,7 @@ speed_ = 2;
 direction_facing_ = dir.right;
 
 
+
 enum player {
 	move
 }
