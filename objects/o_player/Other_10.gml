@@ -3,7 +3,12 @@
 // Check keyboard input
 var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left);
 var _y_input = keyboard_check(vk_down) - keyboard_check(vk_up);
-var _attack_input = keyboard_check_pressed(vk_space);
+var _attack_input = keyboard_check_pressed(ord("X"));
+var _roll_input = keyboard_check_pressed(ord("Z"));
+
+
+// Set roll direction
+roll_direction_ = direction_facing_ * 90;
 
 // Create direction variable
 var _input_direction = point_direction(0, 0, _x_input, _y_input);
@@ -38,6 +43,9 @@ if _x_input == 0 && _y_input == 0 {
 	get_direction_facing(_input_direction);
 	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
 	
+	// Set roll direction
+	roll_direction_ = direction_facing_ * 90;
+	
 	
 }
 
@@ -47,6 +55,15 @@ if _attack_input == true {
 	
 	//Change state
 	state_ = player.sword;
+}
+
+
+// Handle evade state
+if _roll_input == true {
+	image_index = 0;
+	
+	//Change state
+	state_ = player.evade;
 }
 
 

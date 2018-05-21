@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "21cfcf33-27ef-45db-b2e7-5aefad84a712",
+            "Value": {
+                "id": "89cd70f7-8c00-4f0f-97ac-bc1a2201ebb1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_roll_up\/s_player_roll_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27db67e8-d972-40b4-aaac-6618fc3e54f3",
             "Value": {
                 "id": "c1bcb105-1dcf-4229-b99b-f7cc4a8646e5",
@@ -283,6 +302,25 @@
                 ],
                 "resourcePath": "scripts\/approach\/approach.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3d3b4d85-0785-4d24-8606-3377269596e2",
+            "Value": {
+                "id": "2a0c470d-4866-420c-93b2-20f23aefc99f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_roll_down\/s_player_roll_down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -833,6 +871,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/s_player_run_down\/s_player_run_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0b82476-55f7-4036-b915-c69c197b3d44",
+            "Value": {
+                "id": "bafeaefa-a630-4731-9026-4b552d4a6875",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_roll_right\/s_player_roll_right.yy",
                 "resourceType": "GMSprite"
             }
         },
