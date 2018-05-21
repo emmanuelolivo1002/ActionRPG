@@ -1,5 +1,9 @@
+// Use movement script
+initialize_movement_entity(0.5, 1, o_solid);
+
 image_speed = 0;
-speed_ = 2;
+acceleration_ = 0.5;
+max_speed_ = 1.5;
 direction_facing_ = dir.right;
 
 
