@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "0d869f6c-e253-49b8-8ac9-4537533585ea",
+            "Value": {
+                "id": "d09c7219-5935-4490-b211-e9daa13ccc6f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_attack_right\/s_player_attack_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "132b624c-a87f-47f2-96a8-3723da2e637c",
             "Value": {
                 "id": "8a016d35-fc5f-4a28-9b5a-3a7a87a381ee",
@@ -130,6 +149,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/s_dirtwall_tileset\/s_dirtwall_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27db67e8-d972-40b4-aaac-6618fc3e54f3",
+            "Value": {
+                "id": "c1bcb105-1dcf-4229-b99b-f7cc4a8646e5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_attack_down\/s_player_attack_down.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -625,6 +663,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0bcddc7-0d29-4a7b-ab23-0c05ca86f7b8",
+            "Value": {
+                "id": "93aef0d3-e395-42af-b6cd-63d5a5449d6f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_attack_up\/s_player_attack_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
