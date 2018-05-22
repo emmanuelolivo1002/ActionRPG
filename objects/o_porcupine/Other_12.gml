@@ -20,7 +20,7 @@ move_movement_entity(true);
 
 // If stop reset alarm and change to idle
 if speed_ == 0 {
-	alarm[1] = random_range(1, 3) * game_get_speed(gamespeed_fps);
+	alarm[1] = random_range(1, 3) * global.one_second;
 	state_ = porcupine.idle;
 
 }

@@ -552,6 +552,25 @@
             }
         },
         {
+            "Key": "58420e6d-8928-4900-8ade-043dd8979827",
+            "Value": {
+                "id": "f1c4e5c2-e302-46a6-926c-966bc4c55023",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_init\/r_init.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "60e08613-228f-4496-b952-a6bf4792279b",
             "Value": {
                 "id": "2ddf1dca-ddaa-43b0-b541-89013770f8fa",
@@ -720,6 +739,25 @@
                 ],
                 "resourcePath": "scripts\/animation_hit_frame\/animation_hit_frame.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9f83cc65-ddba-47b2-b3ba-b070e3b436f4",
+            "Value": {
+                "id": "336c7d2b-8748-4735-8244-26ad85cc593e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_game\/o_game.yy",
+                "resourceType": "GMObject"
             }
         },
         {

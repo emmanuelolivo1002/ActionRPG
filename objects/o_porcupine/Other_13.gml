@@ -18,5 +18,5 @@ if animation_hit_frame(image_number - 1) {
 	sprite_index = s_porcupine_run;
 	
 	// Reset alarm
-	alarm[1] = 2 * game_get_speed(gamespeed_fps);
+	alarm[1] = 2 * global.one_second;
 }

@@ -17,4 +17,4 @@ state_ = starting_state_;
 image_index = 0;
 image_xscale = choose(1, -1);
 
-alarm[1] = random_range(0, 1) * game_get_speed(gamespeed_fps);
+alarm[1] = random_range(0, 1) * global.one_second;

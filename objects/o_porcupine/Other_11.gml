@@ -6,7 +6,7 @@ image_speed = 0;
 // Check if alarm has gone off
 if alarm[1] <= 0 {
 	// Set alarm
-	alarm[1] = random_range(2, 4) * game_get_speed(gamespeed_fps);
+	alarm[1] = random_range(2, 4) * global.one_second;
 	
 	// Change state
 	state_ = porcupine.move;

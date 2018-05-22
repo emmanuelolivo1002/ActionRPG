@@ -8,7 +8,7 @@ if hurtbox_entity_can_be_hit_by(other) {
 	
 	// Set invincibility for 1/4 second
 	invincible_ = true;
-	alarm[0] = game_get_speed(gamespeed_fps)/4;
+	alarm[0] = global.one_second/4;
 	
 	// Decrease health according to other object damage
 	health_ -= other.damage_;
