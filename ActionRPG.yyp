@@ -609,6 +609,25 @@
             }
         },
         {
+            "Key": "5a900b92-5389-4039-a93a-1cfecf406be5",
+            "Value": {
+                "id": "75cf5e41-3e59-432d-a817-539a1fc1bfec",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_enemy_death_effect\/s_enemy_death_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "60e08613-228f-4496-b952-a6bf4792279b",
             "Value": {
                 "id": "2ddf1dca-ddaa-43b0-b541-89013770f8fa",
@@ -1347,6 +1366,25 @@
                 ],
                 "resourcePath": "objects\/o_enemy\/o_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ec5a0ead-0b60-4964-8ea0-c474017348ed",
+            "Value": {
+                "id": "70ba4109-581c-4076-b9a4-fbfd6225aeee",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_hit_effect\/s_hit_effect.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
