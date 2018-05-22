@@ -685,6 +685,25 @@
             }
         },
         {
+            "Key": "87a9e5a8-aacb-47a8-9aba-543395e9427c",
+            "Value": {
+                "id": "68c15cd9-70db-44f1-bd19-a755b93a642a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/create_animation_effect\/create_animation_effect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8ba717fe-afca-4533-819a-631bf38a9e88",
             "Value": {
                 "id": "c23e129c-5144-4d98-b63d-7d3c7ef5cff3",
@@ -967,6 +986,44 @@
                 ],
                 "resourcePath": "views\/bbecffb4-655e-49da-99a0-401af68fa85a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd3b6aa5-6529-48a3-aa4b-ba12cbf8567f",
+            "Value": {
+                "id": "5ba328c6-9dc4-4998-8d7d-4dacc34e4af1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/bd3b6aa5-6529-48a3-aa4b-ba12cbf8567f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c2cf8a07-c5e2-4c59-a313-2634e2d9ffcc",
+            "Value": {
+                "id": "e6507044-950e-4c51-977e-92062c98275a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_animation_effect\/o_animation_effect.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1398,6 +1455,7 @@
         "02bf1967-f5f0-4222-aeab-d5732ee6a0c8",
         "518d9f71-83d5-4713-ab05-32d32a4333fa",
         "16606e96-6df8-4a1e-9323-54c8a843d1a0",
+        "87a9e5a8-aacb-47a8-9aba-543395e9427c",
         "2b9b61a5-b80d-4e7e-9a69-8a8a6e9b9c10",
         "3b2b668d-1c5c-4783-a28c-73a2b691e2c6",
         "9cc76ebb-0ddc-4409-8596-259884116529",
