@@ -1,0 +1,2 @@
+// Invincibility
+invincible_ = false;

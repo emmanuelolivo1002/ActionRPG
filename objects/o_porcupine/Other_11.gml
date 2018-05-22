@@ -15,9 +15,8 @@ if alarm[1] <= 0 {
 	direction_ = random(360);
 }
 
-
-
-
+// Attack script
+porcupine_attack();
 
 
 

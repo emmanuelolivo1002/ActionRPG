@@ -26,6 +26,8 @@ if speed_ == 0 {
 }
 
 
+// Attack script
+porcupine_attack();
 
 
 

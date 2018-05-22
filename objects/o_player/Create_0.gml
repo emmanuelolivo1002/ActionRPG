@@ -1,6 +1,9 @@
 // Use movement script
 initialize_movement_entity(0.5, 1, o_solid);
 
+// Initialize hurtbox
+initialize_hurtbox_entity();
+
 image_speed = 0;
 acceleration_ = 0.5;
 max_speed_ = 1.5;
@@ -9,8 +12,7 @@ direction_facing_ = dir.right;
 roll_direction_ = 0;
 
 
-
-
+// Set states
 enum player {
 	move,
 	sword, 

@@ -11,7 +11,7 @@ if animation_hit_frame(1) {
 	var _knockback = 8;
 	
 	// Create hitbox
-	var _hitbox = create_hitbox(s_sword_hitbox, x, y, _angle, _life_frames, [], _damage, _knockback);
+	var _hitbox = create_hitbox(s_sword_hitbox, x, y, _angle, _life_frames, [o_enemy, o_grass], _damage, _knockback);
 	
 	// Change position depending on direction of player
 	switch direction_facing_ {
