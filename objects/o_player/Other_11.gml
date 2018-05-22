@@ -13,11 +13,16 @@ if animation_hit_frame(1) {
 	// Create hitbox
 	var _hitbox = create_hitbox(s_sword_hitbox, x, y, _angle, _life_frames, [o_enemy, o_grass], _damage, _knockback);
 	
+	// Play audio
+	audio_play_sound(a_swipe, 8, false);
+	
 	// Change position depending on direction of player
 	switch direction_facing_ {
 		case dir.up: _hitbox.y -=4; break;
 		default: _hitbox.y -=8; break;
 	}
+	
+	
 }
 
 // Call script

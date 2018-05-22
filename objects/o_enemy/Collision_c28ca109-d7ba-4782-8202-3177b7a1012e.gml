@@ -24,6 +24,9 @@ if hurtbox_entity_can_be_hit_by(other) {
 
 	// Set Move
 	set_movement(_knockback_direction, other.knockback_);
+	
+	// Play hit audio
+	audio_play_sound(a_hit, 7, false);
 }
 
 

@@ -9,6 +9,9 @@ if hurtbox_entity_can_be_hit_by(other) {
 	// Decrease health
 	global.player_health -= other.damage_;
 	
+	//Play Audio
+	audio_play_sound(a_hurt, 9, false);
+	
 	// Set knockback
 	var _knockback_direction = point_direction(other.x, other.y, x, y);
 	set_movement(_knockback_direction, other.knockback_);

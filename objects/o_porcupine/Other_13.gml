@@ -9,6 +9,9 @@ if animation_hit_frame(1) {
 	var _knockback = 5;
 	var _damage = 1;
 	create_hitbox(s_porcupine_hitbox, x, y-8, 0, _frames, [o_player], _damage, _knockback);
+	
+	// Play audio
+	audio_play_sound(a_porcupine_attack, 5, false);
 }
 
 
