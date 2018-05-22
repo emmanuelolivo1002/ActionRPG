@@ -3,11 +3,11 @@
 // Image speed
 image_speed = 0.35;
 
-// Create hitbox on frame 3
-if animation_hit_frame(3) {
+// Create hitbox on frame 1
+if animation_hit_frame(1) {
 	var _frames = 1;
-	var _knockback = 1;
-	var _damage = 4;
+	var _knockback = 5;
+	var _damage = 1;
 	create_hitbox(s_porcupine_hitbox, x, y-8, 0, _frames, [o_player], _damage, _knockback);
 }
 
