@@ -704,6 +704,25 @@
             }
         },
         {
+            "Key": "61f2ebf5-0745-484b-96e2-e3f90b5d9f52",
+            "Value": {
+                "id": "acb4a021-960e-4128-87d6-b82eca94d2f1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/b3c13217-caa0-4b59-9b23-dfc0c43faf1c-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "63a90adc-c5d8-494b-8ddc-3c2b851eae04",
             "Value": {
                 "id": "090e6f1d-b9a0-4a51-bdd9-2848b27fa2a5",
@@ -1423,6 +1442,25 @@
                 ],
                 "resourcePath": "sounds\/a_hit\/a_hit.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "db8b86b7-e0c5-486b-989d-131ecb5312e1",
+            "Value": {
+                "id": "4b2547b0-25b2-4f22-94c2-d969d95bd1ec",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_world\/r_world.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
