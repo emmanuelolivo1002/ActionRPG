@@ -305,6 +305,25 @@
             }
         },
         {
+            "Key": "37019bac-d891-4998-9d01-3cd5ee10fe1e",
+            "Value": {
+                "id": "b091c363-ab40-449b-aaf5-6af1eacc84b3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/37019bac-d891-4998-9d01-3cd5ee10fe1e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "380181bf-8536-4ebc-acb4-c0e9e321f3f4",
             "Value": {
                 "id": "5bc55363-d4b0-422f-93ed-7fa4162e77ff",
@@ -359,6 +378,25 @@
                 ],
                 "resourcePath": "sprites\/s_player_roll_down\/s_player_roll_down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3f11facc-37c4-4aff-9f76-f3bd2bf051da",
+            "Value": {
+                "id": "2cf7a220-3cf0-4323-885f-be7ad1136371",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_porcupine\/o_porcupine.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -913,6 +951,25 @@
             }
         },
         {
+            "Key": "d8e613c4-3bd2-473d-85bc-2bad09d96ef0",
+            "Value": {
+                "id": "215dd48b-6692-4c8d-9394-053361e806a3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/d8e613c4-3bd2-473d-85bc-2bad09d96ef0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dff2d4d1-13cb-4dcc-8e34-5dfafdead4fc",
             "Value": {
                 "id": "56a5ec1c-6f8a-444b-81c7-3656f47d5eb3",
@@ -989,6 +1046,25 @@
             }
         },
         {
+            "Key": "e952e308-00ad-4039-b233-e3ca5181d673",
+            "Value": {
+                "id": "d5217776-ba04-4aa5-847a-63928f3342d9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_enemy\/o_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ec885cbf-a1c7-4b19-b606-f23abb5bac26",
             "Value": {
                 "id": "7a4f0928-ee85-4c7e-b8f1-cc8ac9a20faa",
@@ -1005,6 +1081,25 @@
                 ],
                 "resourcePath": "objects\/o_grass\/o_grass.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef3be83e-9cce-4097-9005-fe830748b02b",
+            "Value": {
+                "id": "e8220820-b3e2-4523-a417-a809b67b812b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_porcupine_run\/s_porcupine_run.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1109,10 +1204,10 @@
         "42560f2f-4527-4e7e-81f9-49ba904bf058",
         "d6f76085-404a-4ef5-b275-42d899a0c19d",
         "63a90adc-c5d8-494b-8ddc-3c2b851eae04",
+        "a23eca2e-d6cb-4658-bafa-6820c5afb8bd",
         "2b9b61a5-b80d-4e7e-9a69-8a8a6e9b9c10",
         "3b2b668d-1c5c-4783-a28c-73a2b691e2c6",
-        "9cc76ebb-0ddc-4409-8596-259884116529",
-        "a23eca2e-d6cb-4658-bafa-6820c5afb8bd"
+        "9cc76ebb-0ddc-4409-8596-259884116529"
     ],
     "tutorial": ""
 }
