@@ -533,6 +533,25 @@
             }
         },
         {
+            "Key": "53657701-2d61-4760-b14c-a8e37279148b",
+            "Value": {
+                "id": "62e6f55b-ae7d-4dbb-a371-29f64048e0fd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_grass_effect\/s_grass_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "571b98dd-2e6b-4ed3-b0fc-a88ceff730d9",
             "Value": {
                 "id": "a56339d5-05d7-4c93-8c13-9a89fe60634d",
@@ -568,6 +587,25 @@
                 ],
                 "resourcePath": "rooms\/r_init\/r_init.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "598a49fe-a829-41e9-847e-a1b9de516efb",
+            "Value": {
+                "id": "8ea09583-d01c-4134-aa28-d9f131fffaca",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/598a49fe-a829-41e9-847e-a1b9de516efb.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
