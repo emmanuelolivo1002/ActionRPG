@@ -9,6 +9,9 @@ global.one_second = game_get_speed(gamespeed_fps);
 // Music
 //audio_play_sound(a_music, 10, true);
 
+// Start position
+global.player_start_position = i_world_start;
+
 // Player health
 global.player_max_health = 4;
 global.player_health = global.player_max_health;
