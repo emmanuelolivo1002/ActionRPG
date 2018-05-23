@@ -60,3 +60,9 @@ sprite_[player.hit, dir.right] = s_player_run_right;
 sprite_[player.hit, dir.up] = s_player_run_up;
 sprite_[player.hit, dir.left] = s_player_run_right;
 sprite_[player.hit, dir.down] = s_player_run_down;
+
+// Sprite bomb lookup table
+sprite_[player.bomb, dir.right] = s_player_run_right;
+sprite_[player.bomb, dir.up] = s_player_run_up;
+sprite_[player.bomb, dir.left] = s_player_run_right;
+sprite_[player.bomb, dir.down] = s_player_run_down;

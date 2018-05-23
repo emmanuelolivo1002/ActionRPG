@@ -267,6 +267,25 @@
             }
         },
         {
+            "Key": "1395cd81-59e3-44d4-bc2a-fcd9d819098f",
+            "Value": {
+                "id": "4a2c909b-eaad-4b8c-ae8b-8acacba0ca74",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_bomb\/o_bomb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "157a080c-f6b8-46a6-8a3f-bfda77f29b47",
             "Value": {
                 "id": "161cd83a-ac80-4e31-b5b8-cec9a147d11f",
@@ -723,6 +742,25 @@
             }
         },
         {
+            "Key": "4722d14b-1c1c-4ccf-aef4-356d8e4644e0",
+            "Value": {
+                "id": "b3836618-cdad-4589-bc06-043a86e21d02",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_explosion_effect\/s_explosion_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ccf4bce-864b-4856-a6c1-17b1fd335574",
             "Value": {
                 "id": "a01968f0-6e9e-4be2-b329-879fd203d532",
@@ -1024,6 +1062,25 @@
                 ],
                 "resourcePath": "scripts\/inventory_use_item\/inventory_use_item.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6a425d85-8149-4665-b9dc-aa67e33fdb56",
+            "Value": {
+                "id": "037627a8-f97e-415e-b0af-f7061f177507",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_bomb\/s_bomb.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1423,6 +1480,44 @@
                 ],
                 "resourcePath": "views\/95713e4a-b073-43f7-878d-89c7b0c6ca8c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a2bfe39-febd-4cb0-a762-8c9645b728cf",
+            "Value": {
+                "id": "78b3a048-0526-4e69-95cd-c0263fbbc916",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/a_set_bomb\/a_set_bomb.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "9b604a4f-0531-4b3c-823c-14a80c094d30",
+            "Value": {
+                "id": "52f5db96-b426-4ee7-845c-189240493464",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/a_explosion\/a_explosion.yy",
+                "resourceType": "GMSound"
             }
         },
         {

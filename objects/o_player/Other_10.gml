@@ -54,7 +54,6 @@ inventory_use_item(o_input.action_one_pressed_, global.item[0]);
 inventory_use_item(o_input.action_two_pressed_, global.item[1]);
 
 
-
 // Call movement script
 move_movement_entity(false);
 
