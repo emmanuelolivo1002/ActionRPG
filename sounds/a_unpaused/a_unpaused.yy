@@ -1,0 +1,14 @@
+{
+    "id": "9f4e44bd-4875-4eac-b31c-d15c7ffba407",
+    "modelName": "GMSound",
+    "mvc": "1.0",
+    "name": "a_unpaused",
+    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "bitDepth": 1,
+    "bitRate": 128,
+    "kind": 0,
+    "preload": false,
+    "sampleRate": 44100,
+    "type": 0,
+    "volume": 0.18
+}
