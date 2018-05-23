@@ -42,7 +42,7 @@ global.player_max_health = 4;
 global.player_health = global.player_max_health;
 
 // Player Stamina
-global.player_max_stamina = 2;
+global.player_max_stamina = 3;
 global.player_stamina = global.player_max_stamina;
 
 // Player Gems

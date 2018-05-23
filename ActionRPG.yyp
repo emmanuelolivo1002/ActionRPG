@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "09f515a5-e2ac-44be-9e0b-aceaa56ba310",
+            "Value": {
+                "id": "ad4e6774-6885-436f-b5de-9e12f0e45464",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_stamina_ui\/s_stamina_ui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b772372-a1e3-4b66-ab76-4409d8215f42",
             "Value": {
                 "id": "a5f6126f-ade8-4325-983d-f0caa27bf80d",

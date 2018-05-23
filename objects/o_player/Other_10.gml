@@ -3,8 +3,7 @@
 // Check keyboard input
 var _x_input = o_input.right_ - o_input.left_;
 var _y_input = o_input.down_ - o_input.up_;
-var _attack_input = o_input.action_one_pressed_;
-var _roll_input =  o_input.action_two_pressed_;
+
 
 
 // Set roll direction

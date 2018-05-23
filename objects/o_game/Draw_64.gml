@@ -13,8 +13,8 @@ if sprite_exists(paused_sprite_) {
 // Inventory
 inventory_draw(4, 36);
 
-// HUD
-var _hud_right_edge = 3 + global.player_max_health * 15;
+// HUD 
+var _hud_right_edge = max(3 + global.player_max_health * 15, 2 + global.player_max_stamina * 17);
 draw_sprite_ext(s_hud, 0, 0, _gui_height, _hud_right_edge, 1, 0, c_white, 1);
 draw_sprite(s_hud_egde, 0, _hud_right_edge, _gui_height);
 
@@ -24,7 +24,13 @@ for (var _i = 0; _i < global.player_max_health; _i++) {
 	draw_sprite(s_heart_ui, _filled, 4+15*_i, _gui_height-29);
 } 
 
-// Drag player gems
+// Draw player stamina
+for (var _i = 0; _i < global.player_max_stamina; _i++) {
+	var _filled = _i < global.player_stamina;
+	draw_sprite(s_stamina_ui, _filled, 4+17*_i, _gui_height-17);
+} 
+
+// Draw player gems
 var _gem_string = string(global.player_gems);
 var _text_width = string_width(_gem_string);
 var _x = _gui_width - _text_width + 4;
