@@ -24,6 +24,12 @@ paused_ = false;
 paused_sprite_ = noone;
 paused_sprite_scale = display_get_gui_width()/view_wport[0];
 
+// Inventory
+inventory_create(6);
+inventory_add_item(o_ring_item);
+inventory_add_item(o_sword_item);
+inventory_add_item(o_bomb_item);
+
 // Start position
 global.player_start_position = i_world_start;
 

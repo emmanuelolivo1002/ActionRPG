@@ -10,6 +10,9 @@ if sprite_exists(paused_sprite_) {
 	draw_set_alpha(1);
 }
 
+// Inventory
+inventory_draw(4, 36);
+
 // HUD
 var _hud_right_edge = 3 + global.player_max_health * 15;
 draw_sprite_ext(s_hud, 0, 0, _gui_height, _hud_right_edge, 1, 0, c_white, 1);
