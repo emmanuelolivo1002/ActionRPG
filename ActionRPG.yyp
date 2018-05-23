@@ -799,6 +799,25 @@
             }
         },
         {
+            "Key": "4d26a7df-925d-4fb6-b4f4-a979fce0d503",
+            "Value": {
+                "id": "be987dc4-1886-4c0b-b219-999f3c6e0842",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/set_sprite_facing\/set_sprite_facing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4d67f286-6b00-46ab-acec-e6f21ca69092",
             "Value": {
                 "id": "33e1c420-a10d-4e10-9689-876ba2a86627",
@@ -1081,6 +1100,25 @@
                 ],
                 "resourcePath": "scripts\/inventory_use_item\/inventory_use_item.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "69db832d-a9a5-4254-88fe-d1bff17f9059",
+            "Value": {
+                "id": "df030503-7b50-453c-b8a5-3a37930d9369",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_bat\/s_bat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2490,6 +2528,25 @@
             }
         },
         {
+            "Key": "e55d1247-c5e7-473e-b9d7-5fd2d229fff7",
+            "Value": {
+                "id": "3daa0fd4-cabd-4be8-814a-a5847658bd6d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_bat\/o_bat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e952e308-00ad-4039-b233-e3ca5181d673",
             "Value": {
                 "id": "d5217776-ba04-4aa5-847a-63928f3342d9",
@@ -2741,7 +2798,8 @@
         "2b9b61a5-b80d-4e7e-9a69-8a8a6e9b9c10",
         "9cc76ebb-0ddc-4409-8596-259884116529",
         "4ccf4bce-864b-4856-a6c1-17b1fd335574",
-        "f4641ab6-38ab-4b06-850f-bee60d424979"
+        "f4641ab6-38ab-4b06-850f-bee60d424979",
+        "4d26a7df-925d-4fb6-b4f4-a979fce0d503"
     ],
     "tutorial": ""
 }
