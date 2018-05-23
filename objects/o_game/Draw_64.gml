@@ -2,6 +2,10 @@
 var _gui_width = display_get_gui_width();
 var _gui_height = display_get_gui_height();
 
+// HUD
+var _hud_right_edge = 3 + global.player_max_health * 15;
+draw_sprite_ext(s_hud, 0, 0, _gui_height, _hud_right_edge, 1, 0, c_white, 1);
+draw_sprite(s_hud_egde, 0, _hud_right_edge, _gui_height);
 
 // Draw player hearts
 for (var _i = 0; _i < global.player_max_health; _i++) {

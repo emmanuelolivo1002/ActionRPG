@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "0b772372-a1e3-4b66-ab76-4409d8215f42",
+            "Value": {
+                "id": "a5f6126f-ade8-4325-983d-f0caa27bf80d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_hud_egde\/s_hud_egde.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d869f6c-e253-49b8-8ac9-4537533585ea",
             "Value": {
                 "id": "d09c7219-5935-4490-b211-e9daa13ccc6f",
@@ -738,6 +757,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/s_grass_effect\/s_grass_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "54b2cdd6-e6a0-4fd2-9063-61b9c46056a4",
+            "Value": {
+                "id": "37bd1f63-675f-430b-b6e3-50af53ebd138",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_hud\/s_hud.yy",
                 "resourceType": "GMSprite"
             }
         },
