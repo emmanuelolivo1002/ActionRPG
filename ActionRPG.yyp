@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "050ae0b2-d1e1-4718-a40b-c1a2f4dedef9",
+            "Value": {
+                "id": "9543c1e5-0269-4bb3-9d2a-1ef67e9cbd43",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_heart_ui\/s_heart_ui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d869f6c-e253-49b8-8ac9-4537533585ea",
             "Value": {
                 "id": "d09c7219-5935-4490-b211-e9daa13ccc6f",
@@ -321,6 +340,25 @@
                 ],
                 "resourcePath": "sprites\/s_player_roll_up\/s_player_roll_up.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "26325429-62a6-4bed-b35f-d02a9355d7f3",
+            "Value": {
+                "id": "1dfc4e0c-241c-49e7-9ec9-84fba4227be3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/26325429-62a6-4bed-b35f-d02a9355d7f3.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1555,6 +1593,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/s_sword_hitbox\/s_sword_hitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c832bb63-e123-4452-a381-9a56702d7ded",
+            "Value": {
+                "id": "6fa72bb2-3fa2-41cf-bbde-44c8d5672871",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_font\/s_font.yy",
                 "resourceType": "GMSprite"
             }
         },
