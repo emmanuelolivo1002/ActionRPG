@@ -8,7 +8,8 @@
         "c832bb63-e123-4452-a381-9a56702d7ded",
         "54b2cdd6-e6a0-4fd2-9063-61b9c46056a4",
         "0b772372-a1e3-4b66-ab76-4409d8215f42",
-        "c043fa95-11c6-488a-9451-af30f90f9ed5"
+        "c043fa95-11c6-488a-9451-af30f90f9ed5",
+        "952bbd53-d326-403c-8933-dfa4a448ad0f"
     ],
     "filterType": "GMSprite",
     "folderName": "UI Sprites",

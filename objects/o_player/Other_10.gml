@@ -49,22 +49,9 @@ if _x_input == 0 && _y_input == 0 {
 	
 }
 
-// Handle attack state
-if _attack_input == true {
-	image_index = 0;
-	
-	//Change state
-	state_ = player.sword;
-}
-
-
-// Handle evade state
-if _roll_input == true {
-	image_index = 0;
-	
-	//Change state
-	state_ = player.evade;
-}
+// Handle actions states
+inventory_use_item(o_input.action_one_pressed_, global.item[0]);
+inventory_use_item(o_input.action_two_pressed_, global.item[1]);
 
 
 
