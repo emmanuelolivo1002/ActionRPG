@@ -1,2 +1,2 @@
-/// @description Go to other room
-room_goto(r_world);
+/// @description Go to title scree
+room_goto(r_title);

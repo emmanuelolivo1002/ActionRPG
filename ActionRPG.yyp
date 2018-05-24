@@ -932,6 +932,25 @@
             }
         },
         {
+            "Key": "51adfe84-2f2d-450a-a5c7-37ce1be3bbb4",
+            "Value": {
+                "id": "e18a939e-bb5c-4b39-a8cb-dcf376d1d173",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/r_title\/r_title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "53657701-2d61-4760-b14c-a8e37279148b",
             "Value": {
                 "id": "62e6f55b-ae7d-4dbb-a371-29f64048e0fd",
@@ -1958,6 +1977,25 @@
             }
         },
         {
+            "Key": "b286a4b6-467e-4e1e-b640-28f4410a1adb",
+            "Value": {
+                "id": "3aa202d9-671e-4756-aad6-c63782c80c01",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_tittle_card\/s_tittle_card.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b3c13217-caa0-4b59-9b23-dfc0c43faf1c",
             "Value": {
                 "id": "054db505-9ae3-42f6-8ebe-198ef6c2706b",
@@ -2753,6 +2791,25 @@
                 ],
                 "resourcePath": "sprites\/s_hit_effect\/s_hit_effect.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec84b9c0-8801-4b5d-8640-f5239c8c0397",
+            "Value": {
+                "id": "105a0c1e-843c-4609-86d1-e1e310818d3e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_title_ui\/o_title_ui.yy",
+                "resourceType": "GMObject"
             }
         },
         {

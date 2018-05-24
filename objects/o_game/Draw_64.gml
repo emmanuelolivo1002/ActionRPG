@@ -1,3 +1,8 @@
+///@description When room is not title screen
+
+// If title screen exit
+if room == r_title exit;
+
 // Get GUI dimensions
 var _gui_width = display_get_gui_width();
 var _gui_height = display_get_gui_height();
