@@ -78,9 +78,7 @@
         "e5a7042c-6ef4-40ec-99bf-c64d7ff34697",
         "582d6204-f59c-4e41-87a0-e159b110ef5a",
         "f9e7715b-3c24-4703-8190-ffabb1017a08",
-        "234bf11d-f39c-4f5a-93f6-ac91477e7460",
-        "ae767386-b133-46a4-84c6-70951799cf35",
-        "9ce87306-6788-4415-bf58-c2de6a45f573"
+        "c33ba5e7-09e9-4ea1-a103-eb9aada8c6da"
     ],
     "IsDnD": false,
     "layers": [
@@ -115,8 +113,8 @@
             "name": "Instances",
             "id": "c591ce23-7ad4-4e6f-83a6-89babaffb6fb",
             "depth": 100,
-            "grid_x": 16,
-            "grid_y": 16,
+            "grid_x": 8,
+            "grid_y": 8,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": true,
@@ -192,11 +190,9 @@
 {"name": "inst_41BF7D95","id": "1eccc5f6-18ca-4149-a75e-50c4a8b18b81","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_41BF7D95","objId": "132b624c-a87f-47f2-96a8-3723da2e637c","properties": null,"rotation": 0,"scaleX": 2,"scaleY": 1,"mvc": "1.0","x": 304,"y": 112},
 {"name": "inst_5695C9BF","id": "3be4c662-d1ac-447b-92d7-3d8bfcc38a04","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_5695C9BF.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5695C9BF","objId": "81d7d8d3-bc69-4aeb-a77d-5553dc327501","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 2,"mvc": "1.0","x": 336,"y": 128},
 {"name": "i_sword_to_world","id": "e5a7042c-6ef4-40ec-99bf-c64d7ff34697","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_i_sword_to_world.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_sword_to_world","objId": "5e155447-f730-4e11-9bae-aa52c84428fe","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 320,"y": 144},
-{"name": "i_world_start","id": "582d6204-f59c-4e41-87a0-e159b110ef5a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_world_start","objId": "5e155447-f730-4e11-9bae-aa52c84428fe","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 48,"y": 48},
+{"name": "i_world_start","id": "582d6204-f59c-4e41-87a0-e159b110ef5a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_world_start","objId": "5e155447-f730-4e11-9bae-aa52c84428fe","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 48,"y": 64},
 {"name": "inst_43515273","id": "f9e7715b-3c24-4703-8190-ffabb1017a08","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_43515273","objId": "e55d1247-c5e7-473e-b9d7-5fd2d229fff7","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 272,"y": 64},
-{"name": "inst_502EDEE0","id": "234bf11d-f39c-4f5a-93f6-ac91477e7460","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_502EDEE0","objId": "4bcfa3fe-d3fa-48c0-aee6-52e08784a388","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 128,"y": 112},
-{"name": "inst_14C59C89","id": "ae767386-b133-46a4-84c6-70951799cf35","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_14C59C89","objId": "4bcfa3fe-d3fa-48c0-aee6-52e08784a388","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 128,"y": 112},
-{"name": "inst_114EF7AD","id": "9ce87306-6788-4415-bf58-c2de6a45f573","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_114EF7AD","objId": "4bcfa3fe-d3fa-48c0-aee6-52e08784a388","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 144,"y": 64}
+{"name": "inst_4ED41D92","id": "c33ba5e7-09e9-4ea1-a103-eb9aada8c6da","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4ED41D92","objId": "fa6984db-9930-47dc-8c60-4d44de97b297","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 40,"y": 8}
             ],
             "layers": [
 

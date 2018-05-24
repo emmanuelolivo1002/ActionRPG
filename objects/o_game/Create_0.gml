@@ -24,6 +24,10 @@ paused_ = false;
 paused_sprite_ = noone;
 paused_sprite_scale = display_get_gui_width()/view_wport[0];
 
+// Destroyed items
+global.destroyed = [];
+
+// Items for actions 1 and 2
 global.item[0] = noone;
 global.item[1] = noone;
 item_index_ = 0;
